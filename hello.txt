@@ -1,4 +1,4 @@
-how are you !!!!
+how are you !!!!1
 how are you !!!!
 how are you !!!!
 how are you !!!!
@@ -16,6 +16,7 @@ how are you !!!!
 how are you !!!!
 how are you !!!!
 how are you !!!!002
+<<<<<<< HEAD
 how are you !!!!
 how are you !!!!
 how are you !!!!
@@ -27,3 +28,6 @@ how are you !!!!
 how are you !!!!
 how are you !!!!
 how are you !!!!
+=======
+how are you !!!hotfix
+>>>>>>> hot-fix
